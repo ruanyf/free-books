@@ -78,6 +78,7 @@
 1. [SQL 开源教程](https://selectstarsql.com/)
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
+1. [MySQL 入门教程](https://github.com/jaywcjlove/mysql-tutorial)
 
 ## 软件开发
 
