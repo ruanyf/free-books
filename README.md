@@ -13,8 +13,6 @@
 
 ## Web 开发
 
-1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
-1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
 1. [React 编程模式](https://github.com/krasimir/react-in-patterns)
 1. [React 应用开发教程](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
@@ -23,10 +21,12 @@
 1. [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 1. [精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
 1. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
-1. [实用排版指南](https://practicaltypography.com/)
 1. [http3-explained](https://github.com/bagder/http3-explained)
 1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
+1. [实用排版指南](https://practicaltypography.com/)
 1. [OAuth 2.0 Servers](https://www.oauth.com/)
+1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
+1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
 
 ## 系统管理
 
