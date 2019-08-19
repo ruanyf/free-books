@@ -118,9 +118,9 @@
 1. [程序员的实用密码学](https://cryptobook.nakov.com/)
 1. [进入纯数学](https://infinitedescent.xyz/)
 1. [微积分很容易](http://calculusmadeeasy.org/)（Calculus made easy）
-1. [线性代数入门](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
+1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [Seeing Theory：概率论和统计入门](https://seeing-theory.brown.edu/#firstPage)
-1. [线性代数](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机理论导论](https://introtcs.org/public/index.html)
