@@ -18,6 +18,7 @@
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
 1. [React.js 小书](http://huziketang.mangojuice.top/books/react/)（中文）
 1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
+1. [如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/)
 1. [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 1. [精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
 1. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
