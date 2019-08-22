@@ -92,10 +92,10 @@
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners）, [下载](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [Qt5 教程](https://qmlbook.github.io/)
-  
+
 ## 人工智能
 
-1. [Machine Learning Yearning](http://www.mlyearning.org/)，by 吴恩达
+1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
 1. [人工智能编程范式](https://github.com/norvig/paip-lisp)
 1. [Bloomberg 机器学习课程](https://bloomberg.github.io/foml/)
