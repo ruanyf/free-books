@@ -56,6 +56,7 @@
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
 1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
 1. [Python 科学应用入门](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html)（Introduction to Python for Computational Science and Engineering）, [下载](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
