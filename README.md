@@ -57,6 +57,7 @@
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
+1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
 1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
