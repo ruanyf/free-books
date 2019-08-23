@@ -150,7 +150,7 @@
  
 ## 其他
 
-1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2016年的几百篇讲话。
+1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
 1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
