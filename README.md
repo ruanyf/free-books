@@ -33,6 +33,7 @@
 1. [Linux 命令行](http://linuxcommand.org/tlcl.php)（The Linux Command Line）, [下载](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download)，[中译](http://billie66.github.io/TLCL/index.html)
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
 1. [鸟哥的 Linux 私房菜](http://linux.vbird.org/)（中文）
+1. [Linux 之旅](https://linuxjourney.com/)
 1. [计算机系统导论：以汇编语言与 Linux 系统为例](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 1. [计算机网络：系统方法](https://github.com/SystemsApproach/book)
 1. [计算机组织导论：以树莓派和 ARM 汇编语言为例](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/frontmatter-1.html)
@@ -40,7 +41,7 @@
 1. [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)（中文）
 1. [运维工程师学校（Ops School）](http://www.opsschool.org/)
 1. [文件系统设计](https://www.amazon.com/exec/obidos/ASIN/1558604979/qid=1012094537/sr=8-1/ref=sr_8_71_1/103-9130044-4352613)（Practical File System Design）, [下载](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
- 
+
 ## 编程语言
 
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
@@ -50,7 +51,9 @@
 1. [C ++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
 1. [Go 101](https://go101.org/)
+1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
+1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
@@ -66,7 +69,7 @@
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 1. [如何使用 Python3 编程](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
 1. [数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
-1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
+1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
 1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
@@ -89,7 +92,7 @@
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 1. [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)（中文）
-1. [算法](https://github.com/jeffgerickson/algorithms)
+1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners）, [下载](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [Qt5 教程](https://qmlbook.github.io/)
@@ -109,6 +112,7 @@
 1. [强化学习导论](http://incompleteideas.net/book/the-book.html)（第二版）
 1. [Grokking Deep Learning](https://livebook.manning.com/#!/book/grokking-deep-learning/)
 1. [神经网络与深度学习](https://github.com/nndl/nndl.github.io)
+1. [让产品经理全面理解深度学习](https://easyai.tech/blog/65pdf-pm-understand-dl/)（中文）
 1. [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)（中文）
 
 ## 理论书籍
@@ -137,6 +141,7 @@
 
 1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2016年的几百篇讲话。
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
+1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
 1. [东京防灾手册](http://www.metro.tokyo.jp/chinese/guide/bosai/index.html)（中文）
