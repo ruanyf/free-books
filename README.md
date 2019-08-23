@@ -13,6 +13,16 @@
 
 ## Web 开发
 
+1. The Modern JavaScript Tutorial（[中文](https://zh.javascript.info/)，[英文](https://javascript.info/)）
+1. [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
+1. [Speaking JavaScript](http://speakingjs.com/)
+1. [急性子程序员的 JavaScript 教程](https://exploringjs.com/impatient-js/index.html)
+1. [JavaScript 语言教程](https://wangdoc.com/javascript/)（中文）
+1. [理解 ES6](https://github.com/nzakas/understandinges6/tree/master/manuscript)
+1. [探索 ES6](https://exploringjs.com/es6/)
+1. [探索 ES2016 和 ES2017](https://exploringjs.com/es2016-es2017.html)
+1. [探索 ES2018 和 ES2019](https://exploringjs.com/es2018-es2019/toc.html)
+1. [ES6 标准入门](http://es6.ruanyifeng.com/)（中文）
 1. [React 编程模式](https://github.com/krasimir/react-in-patterns)
 1. [React 应用开发教程](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
@@ -78,7 +88,6 @@
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
 1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 1. [PC Assembly Language](https://pacman128.github.io/pcasm/)
-1. The Modern JavaScript Tutorial([中文](https://zh.javascript.info/)，[英文](https://javascript.info/))
 
 ## 数据库
 
