@@ -77,6 +77,7 @@
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
 1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 1. [PC Assembly Language](https://pacman128.github.io/pcasm/)
+1. The Modern JavaScript Tutorial([中文](https://zh.javascript.info/)，[英文](https://javascript.info/))
 
 ## 数据库
 
