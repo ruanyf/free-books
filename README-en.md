@@ -1,5 +1,7 @@
 A summary of free books collected by [Technology Enthusiast Weekly](https://github.com/ruanyf/weekly).
 
+Translated into English by [krynv](http://github.com/krynv/).
+
 ## Table of Contents
 
 - [Web Development](#Web-Development)
@@ -13,7 +15,6 @@ A summary of free books collected by [Technology Enthusiast Weekly](https://gith
 
 
 ## Web Development
-
 
 1. [React Programming Mode](https://github.com/krasimir/react-in-patterns)
 1. [React Application Development Tutorial](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
