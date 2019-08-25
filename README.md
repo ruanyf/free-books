@@ -27,6 +27,7 @@
 1. [React 应用开发教程](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
 1. [React.js 小书](http://huziketang.mangojuice.top/books/react/)（中文）
+1. [现代 Web 开发](https://fullstackopen.com/en)：Nodejs + React 的在线互动教程。
 1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
 1. [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 1. [精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
