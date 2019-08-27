@@ -52,6 +52,7 @@
 1. [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)（中文）
 1. [运维工程师学校（Ops School）](http://www.opsschool.org/)
 1. [文件系统设计](https://www.amazon.com/exec/obidos/ASIN/1558604979/qid=1012094537/sr=8-1/ref=sr_8_71_1/103-9130044-4352613)（Practical File System Design）, [下载](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
+1. [Docker 初学者教程](https://docker-curriculum.com/)
 
 ## 编程语言
 
