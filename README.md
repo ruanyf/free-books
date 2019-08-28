@@ -149,6 +149,7 @@
 1. [Prob 140](http://prob140.org/textbook/chapters/README)：概率论教材
 1. [写给科学家的范畴论](http://category-theory.mitpress.mit.edu/)（Category Theory for the Sciences）, [下载](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
+1. [同伦类型理论](https://homotopytypetheory.org/)
  
 ## 其他
 
