@@ -57,6 +57,7 @@ Translated into English by [krynv](http://github.com/krynv/).
 1. [Computer Science: Taking the Julia Language as an Example](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [Using Julia Language to Learn Statistics](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf) (PDF)
 1. [Haskell Fun Guide](http://fleurer.github.io/lyah/) (Chinese)
+1. [Programming Language Foundations in Agda](https://plfa.github.io/)
 1. [Common Lisp Practical Tutorial](http://www.gigamonkeys.com/book/)
 1. [OCaml Language Online Tutorial](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [Introduction to Python Science Applications](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html) (Introduction to Python for Computational Science and Engineering), [Download](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
