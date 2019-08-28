@@ -134,6 +134,7 @@ Translated into English by [krynv](http://github.com/krynv/).
 1. [Prob 140](http://prob140.org/textbook/chapters/README): Probability Theory Textbook
 1. [Wrote to the category of Scientists](http://category-theory.mitpress.mit.edu/) (Category Theory for the Sciences), [Download](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [D3 interpretation of graph theory](https://mrpandey.github.io/d3graphTheory/index.html)
+1. [Homotopy Type Theory](https://homotopytypetheory.org/)
 
 ## Other
 
