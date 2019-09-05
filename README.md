@@ -85,6 +85,7 @@
 1. [数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
+1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
 1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
