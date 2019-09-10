@@ -88,6 +88,7 @@
 1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
+1. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
 1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
