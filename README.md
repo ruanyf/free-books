@@ -155,11 +155,12 @@
  
 ## 其他
 
-1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
 1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
+1. [日语语法教程](https://res.wokanxing.info/jpgramma/conditionals.html)（中文）
+1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [东京防灾手册](http://www.metro.tokyo.jp/chinese/guide/bosai/index.html)（中文）
 1. [谷歌的技术文档写作指南](https://developers.google.com/style/)
 1. [《几何原本》在线版](https://www.c82.net/euclid/)
