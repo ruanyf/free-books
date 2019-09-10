@@ -63,7 +63,6 @@
 1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
 1. [C ++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
-1. [The Little Schemer in Clojure](https://juliangamble.com/blog/2012/07/20/the-little-schemer-in-clojure/)
 1. [Go 101](https://go101.org/)
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
