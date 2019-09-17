@@ -38,6 +38,7 @@
 1. [OAuth 2.0 Servers](https://www.oauth.com/)
 1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
 1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
+1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
 
 ## 系统管理
 
