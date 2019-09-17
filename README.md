@@ -44,7 +44,7 @@
 
 1. [Linux 命令行](http://linuxcommand.org/tlcl.php)（The Linux Command Line）, [下载](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download)，[中译](http://billie66.github.io/TLCL/index.html)
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
-1. [鸟哥的 Linux 私房菜](http://linux.vbird.org/)（中文）
+1. [鸟哥的 Linux 私房菜](https://linux.vbird.org/linux_basic/centos7/)（中文）
 1. [Linux 之旅](https://linuxjourney.com/)
 1. [计算机系统导论：以汇编语言与 Linux 系统为例](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 1. [计算机网络：系统方法](https://github.com/SystemsApproach/book)
