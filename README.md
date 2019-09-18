@@ -57,26 +57,27 @@
 
 ## 编程语言
 
-1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
-1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
+### C，C++
+
 1. [C 语言学习资料](http://www.isthe.com/chongo/tech/comp/c/index.html)
 1. C 语言教程：构建 Lisp 编译器（[中文](https://ksco.gitbooks.io/build-your-own-lisp/)，[英文](http://www.buildyourownlisp.com/contents)）
 1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
-1. [C ++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
-1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
+1. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
+1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
+
+### Go
+
 1. [Go 101](https://go101.org/)
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
-1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
-1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
-1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
-1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
-1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+
+### Python
+
 1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
 1. [Python 科学应用入门](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html)（Introduction to Python for Computational Science and Engineering）, [下载](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
+1. [A Byte of Python](https://python.swaroopch.com/)，中译：[简明 Python 教程](https://bop.mol.uno/)
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
 1. [Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版），[中译](https://github.com/facert/python-data-structure-cn)
 1. [Python 数据科学手册](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -85,12 +86,26 @@
 1. [如何使用 Python3 编程](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
 1. [数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
-1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
-1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+
+### Rust
+
 1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
 1. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
-1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
+
+### 其他
+
+1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
+1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
+1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
+1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
+1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
+1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
+1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
+1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
+1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
 1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 1. [PC Assembly Language](https://pacman128.github.io/pcasm/)
