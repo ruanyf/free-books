@@ -59,9 +59,10 @@
 
 ### C，C++
 
+1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
+1. [Modern C（第二版）](http://modernc.gforge.inria.fr/)
 1. [C 语言学习资料](http://www.isthe.com/chongo/tech/comp/c/index.html)
 1. C 语言教程：构建 Lisp 编译器（[中文](https://ksco.gitbooks.io/build-your-own-lisp/)，[英文](http://www.buildyourownlisp.com/contents)）
-1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
 1. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
 
