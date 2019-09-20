@@ -23,6 +23,7 @@
 1. [探索 ES2016 和 ES2017](https://exploringjs.com/es2016-es2017.html)
 1. [探索 ES2018 和 ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 1. [ES6 标准入门](http://es6.ruanyifeng.com/)（中文）
+1. [Eloquent JavaScript（第三版）](https://eloquentjavascript.net/)
 1. [React 编程模式](https://github.com/krasimir/react-in-patterns)
 1. [React 应用开发教程](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
