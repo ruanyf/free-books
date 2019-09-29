@@ -132,6 +132,7 @@
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners）, [下载](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [Qt5 教程](https://qmlbook.github.io/)
+1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 
 ## 人工智能
 
