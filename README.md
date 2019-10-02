@@ -165,6 +165,7 @@
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [Seeing Theory：概率论和统计入门](https://seeing-theory.brown.edu/#firstPage)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机理论导论](https://introtcs.org/public/index.html)
