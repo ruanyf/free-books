@@ -134,6 +134,7 @@
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [Qt5 教程](https://qmlbook.github.io/)
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
+1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 
 ## 人工智能
 
