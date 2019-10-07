@@ -154,6 +154,7 @@
 1. [让产品经理全面理解深度学习](https://easyai.tech/blog/65pdf-pm-understand-dl/)（中文）
 1. [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)（中文）
 1. [Dive into Deep Learning](http://www.d2l.ai/index.html)
+1. [数据科学基础](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf)
 
 ## 理论书籍
 
