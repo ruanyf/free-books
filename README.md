@@ -155,6 +155,7 @@
 1. [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)（中文）
 1. [Dive into Deep Learning](http://www.d2l.ai/index.html)
 1. [数据科学基础](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf)
+1. [机器学习的数学基础](https://mml-book.github.io/)
 
 ## 理论书籍
 
