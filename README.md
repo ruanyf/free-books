@@ -108,6 +108,7 @@
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
 1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
+1. [Haskell 语言48小时教程](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
