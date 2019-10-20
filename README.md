@@ -105,6 +105,7 @@
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
 1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
 1. [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
