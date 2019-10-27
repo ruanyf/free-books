@@ -14,6 +14,7 @@
 ## Web 开发
 
 1. The Modern JavaScript Tutorial（[中文](https://zh.javascript.info/)，[英文](https://javascript.info/)）
+1. Package with more than 40 FREE eBooks on programming! https://goalkicker.com/
 1. [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
 1. [Speaking JavaScript](http://speakingjs.com/)
 1. [急性子程序员的 JavaScript 教程](https://exploringjs.com/impatient-js/index.html)
