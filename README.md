@@ -181,6 +181,7 @@
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
 1. [简单逻辑](https://book.simply-logical.space/)
 1. [数据科学的原理与技巧](https://www.textbook.ds100.org/)
+1. [统计小手册](http://www.jerrydallal.com/LHSP/LHSP.htm)
 1. [Prob 140](http://prob140.org/textbook/chapters/README)：概率论教材
 1. [写给科学家的范畴论](http://category-theory.mitpress.mit.edu/)（Category Theory for the Sciences）, [下载](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
