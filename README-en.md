@@ -132,7 +132,7 @@ Translated into English by [krynv](http://github.com/krynv/).
 1. [Getting Started with Quantum Computing by Curios](https://quantum.country/qcvc)
 1. [Simple logic](https://book.simply-logical.space/)
 1. [Principles and techniques of data science](https://www.textbook.ds100.org/)
-1. [Prob 140](http://prob140.org/textbook/chapters/README): Probability Theory Textbook
+1. [Prob 140](http://prob140.org/textbook/README): Probability Theory Textbook
 1. [Wrote to the category of Scientists](http://category-theory.mitpress.mit.edu/) (Category Theory for the Sciences), [Download](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [D3 interpretation of graph theory](https://mrpandey.github.io/d3graphTheory/index.html)
 
