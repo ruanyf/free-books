@@ -35,6 +35,7 @@
 1. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
 1. [http3-explained](https://github.com/bagder/http3-explained)
 1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
+1. [JavaScript 数据可视化](http://jsdatav.is/intro.html)
 1. [实用排版指南](https://practicaltypography.com/)
 1. [OAuth 2.0 Servers](https://www.oauth.com/)
 1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
@@ -132,6 +133,7 @@
 1. [Emulator 101](http://www.emulator101.com/)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
+1. [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 1. [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)（中文）
 1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
