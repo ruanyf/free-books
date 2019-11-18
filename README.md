@@ -196,6 +196,7 @@
 1. [如何在应用商店成功？](https://github.com/amirrajan/survivingtheappstore)
 1. [计算机之前的计算设备](http://ed-thelen.org/comp-hist/CBC.html)
 1. [日语语法教程](https://res.wokanxing.info/jpgramma/conditionals.html)（中文）
+1. [基础德语教程](https://courses.dcs.wisc.edu/wp/readinggerman/print-entire-textbook/)
 1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
 1. [东京防灾手册](http://www.metro.tokyo.jp/chinese/guide/bosai/index.html)（中文）
 1. [谷歌的技术文档写作指南](https://developers.google.com/style/)
