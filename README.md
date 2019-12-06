@@ -91,6 +91,7 @@
 1. [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 1. [如何使用 Python3 编程](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
+1. [社交媒体挖掘](http://socialdata.site/)
 1. [数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
 1. [使用 Python 学习计量经济学](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)（PDF）
