@@ -85,6 +85,7 @@
 1. [Python 科学应用入门](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html)（Introduction to Python for Computational Science and Engineering）, [下载](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
 1. [A Byte of Python](https://python.swaroopch.com/)，中译：[简明 Python 教程](https://bop.mol.uno/)
+1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)，中译：[Python 开发最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
 1. [Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版），[中译](https://github.com/facert/python-data-structure-cn)
 1. [Python 数据科学手册](https://github.com/jakevdp/PythonDataScienceHandbook)
