@@ -184,6 +184,8 @@
 1. [预测：原理与实践](https://otexts.org/fpp2/)
 1. [数据科学的原理与技巧](https://www.textbook.ds100.org/)
 1. [概率、统计和随机过程导论](https://probabilitycourse.com/)
+1. [概率，统计和随机过程讲义](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
+1. [随机过程导论](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
 
 ### 线性代数
 
