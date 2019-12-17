@@ -103,7 +103,7 @@
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
 1. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 
-### 其他
+### 其他编程语言
 
 1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
