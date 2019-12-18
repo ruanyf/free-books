@@ -13,6 +13,8 @@
 
 ## Web 开发
 
+### JavaScript 语言
+
 1. The Modern JavaScript Tutorial（[中文](https://zh.javascript.info/)，[英文](https://javascript.info/)）
 1. [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
 1. [Speaking JavaScript](http://speakingjs.com/)
@@ -29,18 +31,22 @@
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
 1. [React.js 小书](http://huziketang.mangojuice.top/books/react/)（中文）
 1. [现代 Web 开发](https://fullstackopen.com/en)：Nodejs + React 的在线互动教程。
-1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
 1. [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 1. [精通 JavaScript 模块](https://github.com/mjavascript/mastering-modular-javascript)
 1. [GraphQL 之路](https://www.robinwieruch.de/the-road-to-graphql-book/)
-1. [http3-explained](https://github.com/bagder/http3-explained)
-1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 1. [JavaScript 数据可视化](http://jsdatav.is/intro.html)
-1. [实用排版指南](https://practicaltypography.com/)
 1. [OAuth 2.0 Servers](https://www.oauth.com/)
 1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
+1. [SICP（JavaScript 版）](https://sicp.comp.nus.edu.sg/)
+
+### 其他 Web 开发
+
+1. [http3-explained](https://github.com/bagder/http3-explained)
+1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
+1. [实用排版指南](https://practicaltypography.com/)
 1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
 1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
+1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
 
 ## 系统管理
 
