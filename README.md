@@ -220,6 +220,7 @@
 1. [日语语法教程](https://res.wokanxing.info/jpgramma/conditionals.html)（中文）
 1. [基础德语教程](https://courses.dcs.wisc.edu/wp/readinggerman/print-entire-textbook/)
 1. [任正非文集](./docs/任正非文集.epub)：任正非1994年～2018年的几百篇讲话。
+1. [老外的深圳电子产品采购指南](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf)（PDF）
 1. [东京防灾手册](http://www.metro.tokyo.jp/chinese/guide/bosai/index.html)（中文）
 1. [谷歌的技术文档写作指南](https://developers.google.com/style/)
 1. [《几何原本》在线版](https://www.c82.net/euclid/)
