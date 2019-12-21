@@ -2,18 +2,18 @@
 
 ## 目录
 
-- [Web 开发](#web-开发)
-- [系统管理](#系统管理)
-- [编程语言](#编程语言)
-- [数据库](#数据库)
-- [软件开发](#软件开发)
-- [人工智能](#人工智能)
-- [理论书籍](#理论书籍)
-- [其他](#其他)
+- [一、Web 开发](#web-开发)
+- [二、系统管理](#系统管理)
+- [三、编程语言](#编程语言)
+- [四、数据库](#数据库)
+- [五、软件开发](#软件开发)
+- [六、人工智能](#人工智能)
+- [七、理论书籍](#理论书籍)
+- [八、其他](#其他)
 
-## Web 开发
+## 一、Web 开发
 
-### JavaScript 语言
+### 1.1 JavaScript 语言
 
 1. The Modern JavaScript Tutorial（[中文](https://zh.javascript.info/)，[英文](https://javascript.info/)）
 1. [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
@@ -39,7 +39,7 @@
 1. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
 1. [SICP（JavaScript 版）](https://sicp.comp.nus.edu.sg/)
 
-### 其他 Web 开发
+### 1.2 其他 Web 开发
 
 1. [http3-explained](https://github.com/bagder/http3-explained)
 1. [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
@@ -48,7 +48,7 @@
 1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
 1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
 
-## 系统管理
+## 二、系统管理
 
 1. [Linux 命令行](http://linuxcommand.org/tlcl.php)（The Linux Command Line）, [下载](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download)，[中译](http://billie66.github.io/TLCL/index.html)
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
@@ -66,9 +66,9 @@
 1. [Docker 初学者教程](https://docker-curriculum.com/)
 1. [开源应用程序的体系结构](http://aosabook.org/en/)
 
-## 编程语言
+## 三、编程语言
 
-### C，C++
+### 3.1 C，C++
 
 1. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)（PDF）
 1. [Modern C（第二版）](http://modernc.gforge.inria.fr/)
@@ -77,14 +77,14 @@
 1. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 1. [C/C++ 面向 wasm 编程—— Emscripten 工程实践](https://github.com/3dgen/cppwasm-book)
 
-### Go
+### 3.2 Go
 
 1. [Go 101](https://go101.org/)
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
 
-### Python
+### 3.3 Python
 
 1. [Python 编程基础](https://archive.org/details/2018Fundamentals.ofPython)（PDF）
 1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
@@ -94,6 +94,7 @@
 1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)，中译：[Python 开发最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
 1. [Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版），[中译](https://github.com/facert/python-data-structure-cn)
+1. [SICP（Python 版）](https://github.com/wizardforcel/sicp-py-zh)（中文）
 1. [Python 数据科学手册](https://github.com/jakevdp/PythonDataScienceHandbook)
 1. [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -103,13 +104,13 @@
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
 1. [使用 Python 学习计量经济学](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)（PDF）
 
-### Rust
+### 3.4 Rust
 
 1. [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 1. [Rust 编程语言](https://www.jyotirmoy.net/posts/2018-12-01-rust-book.html)
 1. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 
-### 其他编程语言
+### 3.5 其他编程语言
 
 1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
@@ -129,21 +130,21 @@
 1. [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 1. [PC Assembly Language](https://pacman128.github.io/pcasm/)
 
-## 数据库
+## 四、数据库
 
 1. [SQL 开源教程](https://selectstarsql.com/)
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
 
-## 软件开发
+## 五、软件开发
 
 1. [Crafting Interpreters](http://craftinginterpreters.com/)
 1. [Emulator 101](http://www.emulator101.com/)
+1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
 1. [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
-1. [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)（中文）
 1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
 1. [A* 算法教程](http://theory.stanford.edu/~amitp/GameProgramming/)
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners）, [下载](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)
@@ -152,7 +153,7 @@
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 
-## 人工智能
+## 六、人工智能
 
 1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
@@ -174,14 +175,14 @@
 1. [机器学习的数学基础](https://mml-book.github.io/)
 1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 
-## 理论书籍
+## 七、理论书籍
 
-### 微积分
+### 7.1 微积分
 
 1. [进入纯数学](https://infinitedescent.xyz/)
 1. [微积分很容易](http://calculusmadeeasy.org/)（Calculus made easy）
 
-### 统计与概率
+### 7.2 统计与概率
 
 1. [Seeing Theory：概率论和统计入门](https://seeing-theory.brown.edu/#firstPage)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)
@@ -193,21 +194,21 @@
 1. [概率，统计和随机过程讲义](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
 1. [随机过程导论](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
 
-### 线性代数
+### 7.3 线性代数
 
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
 1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [交互式线性代数教程](https://textbooks.math.gatech.edu/ila/)
 
-### 密码学
+### 7.4 密码学
 
 1. [应用加密法的研究生教材](http://toc.cryptobook.us/)
 1. [加密学导论](https://intensecrypto.org/public/)
 1. [Crypto 101](https://www.crypto101.io/)
 1. [程序员的实用密码学](https://cryptobook.nakov.com/)
 
-### 其他理论书籍
+### 7.5 其他理论书籍
 
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机理论导论](https://introtcs.org/public/index.html)
@@ -217,7 +218,7 @@
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
 1. [编译器设计基础](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)（PDF）
 
-## 其他
+## 八、其他
 
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
 1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
