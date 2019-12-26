@@ -94,7 +94,7 @@
 1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)，中译：[Python 开发最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
 1. [Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版），[中译](https://github.com/facert/python-data-structure-cn)
-1. [SICP（Python 版）](https://github.com/wizardforcel/sicp-py-zh)（中文）
+1. SICP（Python 版）（[英文](https://wizardforcel.gitbooks.io/sicp-in-python/content/)，[中文](https://github.com/wizardforcel/sicp-py-zh)）
 1. [Python 数据科学手册](https://github.com/jakevdp/PythonDataScienceHandbook)
 1. [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -115,6 +115,7 @@
 1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
 1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
+1. [SICP（Clojure 版）](http://www.sicpdistilled.com/)
 1. [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
