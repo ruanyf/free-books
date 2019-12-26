@@ -214,6 +214,7 @@
 1. [计算机理论导论](https://introtcs.org/public/index.html)
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
 1. [简单逻辑](https://book.simply-logical.space/)
+1. [写给程序员的范畴论](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 1. [写给科学家的范畴论](http://category-theory.mitpress.mit.edu/)（Category Theory for the Sciences）, [下载](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
 1. [编译器设计基础](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)（PDF）
