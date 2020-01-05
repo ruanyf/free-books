@@ -164,6 +164,7 @@
 1. [深度学习/机器学习面试笔记](https://github.com/imhuay/Interview_Notes-Chinese)（中文）
 1. [数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 1. [机器学习解释](https://christophm.github.io/interpretable-ml-book/)
+1. [深入深度学习](https://d2l.ai/)
 1. [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
 1. [基于模型的机器学习](http://mbmlbook.com/)
 1. [Deep Learning Project](https://github.com/Spandan-Madan/DeepLearningProject)
