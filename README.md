@@ -8,7 +8,7 @@
 - [四、数据库](#四数据库)
 - [五、软件开发](#五软件开发)
 - [六、人工智能](#六人工智能)
-- [七、理论书籍](#七理论书籍)
+- [七、数学理论](#七数学理论)
 - [八、其他](#八其他)
 
 ## 一、Web 开发
@@ -182,7 +182,7 @@
 1. [机器学习的数学基础](https://mml-book.github.io/)
 1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 
-## 七、理论书籍
+## 七、数学理论
 
 ### 7.1 微积分
 
