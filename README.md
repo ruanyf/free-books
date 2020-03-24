@@ -87,6 +87,7 @@
 ### 3.3 Python
 
 1. [Python 编程基础](https://archive.org/details/2018Fundamentals.ofPython)（PDF）
+1. [Python 编程入门](https://github.com/webartifex/intro-to-python)
 1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
 1. [Python 科学应用入门](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html)（Introduction to Python for Computational Science and Engineering）, [下载](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
