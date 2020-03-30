@@ -93,6 +93,7 @@
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
 1. [A Byte of Python](https://python.swaroopch.com/)，中译：[简明 Python 教程](https://bop.mol.uno/)
 1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)，中译：[Python 开发最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
+1. [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)（中文）
 1. [Python 语言互动教程](http://projectpython.net/chapter00/)
 1. [Python 算法与数据结构](http://interactivepython.org/runestone/static/pythonds/index.html)（第二版），[中译](https://github.com/facert/python-data-structure-cn)
 1. SICP（Python 版）（[英文](https://wizardforcel.gitbooks.io/sicp-in-python/content/)，[中文](https://github.com/wizardforcel/sicp-py-zh)）
@@ -120,6 +121,7 @@
 1. [SICP（Clojure 版）](http://www.sicpdistilled.com/)
 1. [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
+1. [廖雪峰 Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)（中文）
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
@@ -138,6 +140,7 @@
 1. [SQL 开源教程](https://selectstarsql.com/)
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
+1. [廖雪峰 SQL 教程](https://www.liaoxuefeng.com/wiki/896043488029600)（中文）
 
 ## 五、软件开发
 
