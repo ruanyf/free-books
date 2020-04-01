@@ -1,4 +1,6 @@
-[《科技爱好者周刊》](https://github.com/ruanyf/weekly)收集的免费书籍汇总。
+免费计算机书籍汇总。
+
+没有注明语种的，都为英语资源。
 
 ## 目录
 
@@ -142,6 +144,7 @@
 1. [如何开发一个简单的数据库](https://cstack.github.io/db_tutorial/)
 1. [数据库基础](http://webdam.inria.fr/Alice/)
 1. [廖雪峰 SQL 教程](https://www.liaoxuefeng.com/wiki/896043488029600)（中文）
+1. [PostgreSQL 模式设计](https://www.graphile.org/postgraphile/postgresql-schema-design/)
 
 ## 五、软件开发
 
