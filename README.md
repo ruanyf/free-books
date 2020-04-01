@@ -172,7 +172,7 @@
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
 1. [人工智能编程范式](https://github.com/norvig/paip-lisp)
 1. [Bloomberg 机器学习课程](https://bloomberg.github.io/foml/)
-1. [深度学习/机器学习面试笔记](https://github.com/imhuay/Interview_Notes-Chinese)（中文）
+1. [深度学习/机器学习面试笔记](https://github.com/DiHiera/Algorithm_Interview_Notes-Chinese-master)（中文）
 1. [数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 1. [机器学习解释](https://christophm.github.io/interpretable-ml-book/)
 1. 深入深度学习（[英文](https://d2l.ai/)，[中文](https://zh.d2l.ai/)）
