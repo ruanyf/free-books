@@ -177,6 +177,7 @@
 1. [机器学习解释](https://christophm.github.io/interpretable-ml-book/)
 1. 深入深度学习（[英文](https://d2l.ai/)，[中文](https://zh.d2l.ai/)）
 1. [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
+1. [简单粗暴 TensorFlow 2](https://tf.wiki/)（中文）
 1. [基于模型的机器学习](http://mbmlbook.com/)
 1. [Deep Learning Project](https://github.com/Spandan-Madan/DeepLearningProject)
 1. [强化学习导论](http://incompleteideas.net/book/the-book.html)（第二版）
