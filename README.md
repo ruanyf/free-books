@@ -167,6 +167,7 @@
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [并行编程](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+1. [谷歌 SRE（网站可靠性工程）丛书](https://landing.google.com/sre/books/)
 
 ## 六、人工智能
 
