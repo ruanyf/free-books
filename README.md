@@ -57,6 +57,7 @@
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
 1. [鸟哥的 Linux 私房菜](https://linux.vbird.org/linux_basic/centos7/)（中文）
 1. [Linux 之旅](https://linuxjourney.com/)
+1. [Bash 脚本教程](https://wangdoc.com/bash/)（中文）
 1. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 1. [Unix 编程艺术](http://www.catb.org/~esr/writings/taoup/html/)
 1. [计算机系统导论：以汇编语言与 Linux 系统为例](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
