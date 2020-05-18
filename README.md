@@ -241,6 +241,7 @@
 1. [写给程序员的范畴论](https://github.com/hmemcpy/milewski-ctfp-pdf/)（Category Theory for Programmers）
 1. [写给科学家的范畴论](http://category-theory.mitpress.mit.edu/)（Category Theory for the Sciences）, [下载](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
+1. [离散数学导论](http://discrete.openmathbooks.org/dmoi3.html)
 1. [编译器设计基础](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)（PDF）
 
 ## 八、其他
