@@ -230,6 +230,7 @@
 1. [应用加密法的研究生教材](http://toc.cryptobook.us/)
 1. [加密学导论](https://intensecrypto.org/public/)
 1. [Crypto 101](https://www.crypto101.io/)
+1. [密码学变得容易](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)（Cryptography Made Simple）
 1. [程序员的实用密码学](https://cryptobook.nakov.com/)
 
 ### 7.5 其他理论书籍
