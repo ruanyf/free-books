@@ -28,6 +28,7 @@
 1. [探索 ES2018 和 ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 1. [ES6 标准入门](http://es6.ruanyifeng.com/)（中文）
 1. [Eloquent JavaScript（第三版）](https://eloquentjavascript.net/)
+1. [JavaScript 的前20年](https://zenodo.org/record/3707008#.XtsBTnVfhhF)（JavaScript: The First 20 Years）
 1. [TypeScript 教程](https://exploringjs.com/tackling-ts/)
 1. Node.js 入门（[中文](https://www.nodebeginner.org/index-zh-cn.html)，[英文](https://www.nodebeginner.org/)）
 1. [React 编程模式](https://github.com/krasimir/react-in-patterns)
