@@ -141,6 +141,7 @@
 1. [Nim 语言编程](http://ssalewski.de/nimprogramming.html)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [高阶 Perl](https://hop.perl.plover.com/)
+1. [Prolog 的艺术](https://mitpress.mit.edu/books/art-prolog-second-edition)（The art of Prolog）
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
 1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
