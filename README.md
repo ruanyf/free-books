@@ -91,6 +91,7 @@
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
+1. [Go 语言编程](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)（How To Code in Go）
 
 ### 3.3 Python
 
