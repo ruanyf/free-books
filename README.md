@@ -216,6 +216,7 @@
 1. [Seeing Theory：概率论和统计入门](https://seeing-theory.brown.edu/#firstPage)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)
 1. [统计小手册](http://www.jerrydallal.com/LHSP/LHSP.htm)
+1. [统计学习导论](http://faculty.marshall.usc.edu/gareth-james/ISL/)（An Introduction to Statistical Learning）
 1. [麻省理工学院统计学课件](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 1. [Prob 140](http://prob140.org/textbook/README)：概率论教材
 1. [预测：原理与实践](https://otexts.org/fpp2/)
