@@ -59,6 +59,7 @@
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
 1. [鸟哥的 Linux 私房菜](https://linux.vbird.org/linux_basic/centos7/)（中文）
 1. [Linux 之旅](https://linuxjourney.com/)
+1. [Linux 从零开始](http://www.linuxfromscratch.org/lfs/view/10.0-rc1/prologue/foreword.html)（Linux From Scratch）
 1. [Bash 脚本教程](https://wangdoc.com/bash/)（中文）
 1. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 1. [Unix 编程艺术](http://www.catb.org/~esr/writings/taoup/html/)
@@ -71,6 +72,7 @@
 1. [文件系统设计](https://www.amazon.com/exec/obidos/ASIN/1558604979/qid=1012094537/sr=8-1/ref=sr_8_71_1/103-9130044-4352613)（Practical File System Design）, [下载](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 1. [Docker 初学者教程](https://docker-curriculum.com/)
 1. [开源应用程序的体系结构](http://aosabook.org/en/)
+1. [MacOS 的安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)（中文）
 
 ## 三、编程语言
 
@@ -203,6 +205,7 @@
 1. [数据科学基础](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf)
 1. [机器学习的数学基础](https://mml-book.github.io/)
 1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
+1. [面向程序员的深度学习](https://github.com/fastai/fastbook)（Practical Deep Learning for Coders）（[官网](https://course.fast.ai/)）
 
 ## 七、数学理论
 
