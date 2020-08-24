@@ -242,6 +242,7 @@
 1. [Crypto 101](https://www.crypto101.io/)
 1. [密码学很容易](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)（Cryptography Made Simple）
 1. [程序员的实用密码学](https://cryptobook.nakov.com/)
+1. [密码学的喜悦](http://web.engr.oregonstate.edu/~rosulekm/crypto/)（The Joy of Cryptography）
 
 ### 7.5 其他理论书籍
 
