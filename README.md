@@ -175,11 +175,12 @@
 1. [A* 算法教程](http://theory.stanford.edu/~amitp/GameProgramming/)
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners，[英文](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)，[中文卷一](https://beginners.re/RE4B-CN-vol1.pdf), [中文卷二](https://beginners.re/RE4B-CN-vol2.pdf)）
 1. [逆向工程初学者教程](https://www.begin.re/)
-1. [Qt5 教程](https://qmlbook.github.io/)
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [并行编程](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 1. [谷歌 SRE（网站可靠性工程）丛书](https://landing.google.com/sre/books/)
+1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
+1. [Qt5 教程](https://qmlbook.github.io/)
 
 ## 六、人工智能
 
