@@ -52,6 +52,7 @@
 1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
 1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
 1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
+1. [WebRTC 教程](https://webrtcforthecurious.com/)（WebRTC for the Curious）
 
 ## 二、系统管理
 
