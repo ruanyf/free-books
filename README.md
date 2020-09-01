@@ -182,6 +182,7 @@
 1. [并行编程](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 1. [谷歌 SRE（网站可靠性工程）丛书](https://landing.google.com/sre/books/)
 1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
+1. [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)（中文）
 1. [Qt5 教程](https://qmlbook.github.io/)
 
 ## 六、人工智能
