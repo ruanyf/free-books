@@ -171,6 +171,7 @@
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
 1. [编译器教程](https://github.com/DoctorWkt/acwj): 如何写一个最小的 C 语言编译器
+1. [写一个 C 语言解释器](https://github.com/lotabout/write-a-C-interpreter/tree/master/tutorial/en)（Write a C interpreter）
 1. [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
