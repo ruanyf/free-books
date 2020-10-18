@@ -190,7 +190,7 @@
 
 1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
-1. [人工智能编程范式](https://github.com/norvig/paip-lisp)
+1. [人工智能编程的 Lisp 范例](https://github.com/norvig/paip-lisp)（Paradigms of Artificial Intelligence Programming）
 1. [Bloomberg 机器学习课程](https://bloomberg.github.io/foml/)
 1. [深度学习/机器学习面试笔记](https://github.com/DiHiera/Algorithm_Interview_Notes-Chinese-master)（中文）
 1. [数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
