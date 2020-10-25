@@ -252,6 +252,7 @@
 
 ### 7.5 其他理论书籍
 
+1. [计算机科学的数学基础](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)（Mathematics for Computer Science, PDF）
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机科学的理论导论](https://introtcs.org/public/index.html)
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
