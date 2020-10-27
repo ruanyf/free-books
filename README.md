@@ -238,6 +238,7 @@
 
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [线性代数](https://hefferon.net/linearalgebra/), by Jim Hefferon
 1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [交互式线性代数教程](https://textbooks.math.gatech.edu/ila/)
 
