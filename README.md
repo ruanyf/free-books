@@ -165,7 +165,7 @@
 ## 五、软件开发
 
 1. [计算机科学入门](https://www.bottomupcs.com/index.xhtml)
-1. [Crafting Interpreters](http://craftinginterpreters.com/)
+1. [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 1. [Emulator 101](http://www.emulator101.com/)
 1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
