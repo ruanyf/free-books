@@ -211,7 +211,8 @@
 1. [机器学习的数学基础](https://mml-book.github.io/)
 1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 1. [面向程序员的深度学习](https://github.com/fastai/fastbook)（Practical Deep Learning for Coders）（[官网](https://course.fast.ai/)）
-1. [从头学习机器学习](https://dafriedman97.github.io/mlbook/content/introduction.html)（Machine Learning from Scratch）
+1. [从头学习机器学习](https://dafriedman97.github.io/mlbook/content/introduction.html)（Machine Learning from Scratch)
+1. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book)
 
 ## 七、数学理论
 
