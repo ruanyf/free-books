@@ -185,6 +185,7 @@
 1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
 1. [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)（中文）
 1. [Qt5 教程](https://qmlbook.github.io/)
+1. [Pro Git book](https://git-scm.com/book)
 
 ## 六、人工智能
 
